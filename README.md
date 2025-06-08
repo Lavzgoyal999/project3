@@ -111,6 +111,14 @@ git status
 git remote add origin https://github.com/Lavzgoyal999/project3.git
 git push -u origin master
 
-
+GO TO GITHUB WAHA REPOSITORY MEH SARI FILES AJANI CHAHIYA
+DEFAULT KO MAIN SE MASTER KARNA 
+SETTINGS 
+PAGES
+MASTER
+DOCS
+SAVE 
+RELOAD 
+LIVE URL AYEGA
 
 
